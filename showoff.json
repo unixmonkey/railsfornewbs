@@ -1,0 +1,7 @@
+{
+  "name": "Rails for Newbs",
+  "description": "Fundamentals of Rails",
+  "sections": [
+    {"section":"rails_for_newbs"}
+  ]
+}
